@@ -21,4 +21,9 @@ To run this presentation locally:
 
 Edit the [slides.md](./slides.md) to see the changes.
 
+## Deployment
+
+This presentation is automatically deployed to GitHub Pages. After pushing to the main branch, it will be available at:
+`https://[your-username].github.io/[repository-name]/`
+
 Learn more about Slidev at the [documentation](https://sli.dev/).
